@@ -11,7 +11,7 @@ package Cdg;
  */
 public class Principal {
     
-    public static void main(String[]args){
+    public static void main(String[]args) throws Exception{
         
         String caminho = "src\\Cdg\\vendas.txt";
         ManipulaArquivo c = new ManipulaArquivo();
