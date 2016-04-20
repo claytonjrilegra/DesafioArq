@@ -1,0 +1,7 @@
+Leonardo;Norte;20
+Cleyton;Leste;70
+Patricia;Sul;50
+Leonardo;Norte;50
+Cleyton;Leste;10
+Marcos;Norte;35
+Patricia;Sul;60
